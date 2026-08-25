@@ -31,3 +31,4 @@ C:\P4_2026_2\T_1\MiApiCuadrado\obj\Debug\net10.0\refint\MiApiCuadrado.dll
 C:\P4_2026_2\T_1\MiApiCuadrado\obj\Debug\net10.0\MiApiCuadrado.pdb
 C:\P4_2026_2\T_1\MiApiCuadrado\obj\Debug\net10.0\MiApiCuadrado.genruntimeconfig.cache
 C:\P4_2026_2\T_1\MiApiCuadrado\obj\Debug\net10.0\ref\MiApiCuadrado.dll
+C:\P4_2026_2\T_1\MiApiCuadrado\obj\Debug\net10.0\MiApiCuadrado.sourcelink.json
